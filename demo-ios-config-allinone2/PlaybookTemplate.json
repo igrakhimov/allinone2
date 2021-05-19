@@ -1,0 +1,22 @@
+{
+  "TemplateDescription": {
+    "TemplateId": "00000000-0000-0000-0507-000000000002",
+    "TemplateName": "Demo IOS Config allinone2",
+    "Description": "Configures IOS devices in the inventory with the provided parent and configuration lines.",
+    "TemplateType": 2,
+    "TemplateAuthor": "Rapid Team",
+    "ReleaseDateVersion": "06/03/2020 01:02:18",
+    "TemplateFolderPath": "/tmp/rapid/repo/ansible-templates/demo-ios-config-allinone2/",
+    "IsDevTestEnvironmentsOnly": false,
+    "UsageCount": 44,
+    "ExecuteCount": 0,
+    "IsPromoted": false,
+    "TemplateVersion": "V1",
+    "TemplateOwner": "tester",
+    "IsFavourite": true,
+    "TemplateModifiedBy": "admin-tester",
+    "TemplateModifiedDate": "07/21/2020 01:56:00",
+    "TemplateTypeColor": "",
+    "TemplateIconPath": "/images/custom-icons/lightning-cloud.svg"
+  }
+}
