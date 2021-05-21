@@ -1,0 +1,19 @@
+{
+  "TemplateId": "2109b1a8-11f7-433d-aad6-ba41e0f003ed",
+  "TemplateName": "Disco No Inventory Allinone2",
+  "Description": "modified by Ig",
+  "TemplateType": 1,
+  "TemplateAuthor": "tester",
+  "ReleaseDateVersion": "08/23/2020 01:27:24",
+  "TemplateFolderPath": "/Users/igor/Dfly/rapid/src/Rapid.Workflow.Api/bin/Debug/netcoreapp3.1/tmp/rapid/repo/workflow-templates/disco-no-inventory-allinone2/",
+  "IsDevTestEnvironmentsOnly": true,
+  "UsageCount": 1,
+  "IsPromoted": false,
+  "TemplateVersion": "1",
+  "TemplateOwner": "tester",
+  "IsFavourite": false,
+  "TemplateModifiedBy": "tester",
+  "TemplateModifiedDate": "03/10/2021 03:58:19",
+  "TemplateTypeColor": "DiscoveryAnsibleElements",
+  "TemplateIconPath": null
+}

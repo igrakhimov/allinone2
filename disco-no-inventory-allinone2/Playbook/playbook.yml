@@ -1,0 +1,36 @@
+- name: test #edited by igor via conecting with username/PAT
+  hosts: all
+  gather_facts: no
+  connection: network_cli
+
+  vars_prompt:
+    - name: 'username'
+      prompt: 'Enter username'
+      default: 'cisco'
+      private: false
+
+    - name: 'password'
+      prompt: 'Enter password'
+      default: 'cisco'
+      private: true
+      unsafe: true
+
+  vars:
+    ansible_user: '{{ username }}'
+    ansible_password: '{{ password }}'
+
+  tasks:
+    - debug: msg="the value of inventory is \n {{lookup('file', '/rapid/mnt/runner/inventory/hosts') }}"
+
+    - name: show
+      ios_command:
+        commands: 'show clock'
+      register: output
+
+    - debug:
+        var: output
+
+    - debug:
+        msg: "{{ item }}"
+      with_inventory_hostnames:
+        - all
