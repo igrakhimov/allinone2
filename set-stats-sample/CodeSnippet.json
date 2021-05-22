@@ -1,0 +1,10 @@
+{
+  "SnippetId": "777a7441-3f6c-438e-9385-a0e3fe75878d",
+  "SnippetName": "Set Stats Sample",
+  "SnippetAuthor": "neilcross",
+  "ReleaseDateVersion": "06/18/2020 03:15:04",
+  "SnippetModifiedBy": "neilcross",
+  "SnippetModifiedDate": "06/18/2020 03:15:04",
+  "Description": "A sample snippet demonstrating the output via Ansible Stats.",
+  "Snippet": "  - name: create variables and export them to the  obal variable pool\r\n    set_stats:\r\n      data:\r\n        var_string: \u0022this is a string\u0022\r\n        var_number: 5\r\n        var_bool: true\r\n        var_list: \r\n          - 1\r\n          - 2\r\n          - 3\r\n        var_dict: \r\n          key1: \u0022value1\u0022\r\n          key2: \u0022value2\u0022"
+}
