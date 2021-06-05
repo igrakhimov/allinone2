@@ -1,0 +1,9 @@
+- name: print inventory
+  hosts: all
+  gather_facts: no
+  connection: local
+
+  tasks:
+
+    - debug:
+        var: inventory_hostname
