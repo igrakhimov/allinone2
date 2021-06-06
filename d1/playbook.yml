@@ -1,4 +1,4 @@
-- name: Discovery
+- name: Discovery1
   vars_prompt:
     - name: 'discovery_vars_prompts_username'
       prompt: 'Enter username'
