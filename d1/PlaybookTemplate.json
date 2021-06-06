@@ -1,0 +1,23 @@
+{
+  "TemplateDescription": {
+    "TemplateId": "a8f4c49c-eb1a-434c-a6d3-f6cef7502e40",
+    "TemplateName": "d1",
+    "Description": "1",
+    "TemplateType": 4,
+    "TemplateAuthor": "abitha",
+    "ReleaseDateVersion": "06/06/2021 04:18:42",
+    "TemplateFolderPath": "/tmp/rapid/repo/workspace/e91b0000-9b0e-f2c0-8430-08d924c5ea75/allinone2/d1",
+    "IsDevTestEnvironmentsOnly": true,
+    "UsageCount": 0,
+    "IsPromoted": false,
+    "TemplateVersion": "1",
+    "TemplateOwner": "abitha",
+    "IsFavourite": false,
+    "TemplateModifiedBy": "abitha",
+    "TemplateModifiedDate": "06/06/2021 04:18:42",
+    "TemplateTypeColor": null,
+    "TemplateIconPath": "/images/custom-icons/cba-logo.svg",
+    "UseLocalZone": false,
+    "IsGlobal": false
+  }
+}
