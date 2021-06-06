@@ -1,0 +1,21 @@
+{
+  "TemplateId": "6f8523e6-3e0c-4cc5-8b70-f93dcd8630c2",
+  "TemplateName": "vr111",
+  "Description": "hjj",
+  "TemplateType": 1,
+  "TemplateAuthor": "abitha",
+  "ReleaseDateVersion": "06/05/2021 21:28:49",
+  "TemplateFolderPath": "/tmp/rapid/repo/workspace/e91b0000-9b0e-f2c0-8430-08d924c5ea75/allinone2/vr111",
+  "IsDevTestEnvironmentsOnly": true,
+  "UsageCount": 0,
+  "IsPromoted": false,
+  "TemplateVersion": "jnjh",
+  "TemplateOwner": "abitha",
+  "IsFavourite": false,
+  "TemplateModifiedBy": "abitha",
+  "TemplateModifiedDate": "06/06/2021 05:44:04",
+  "TemplateTypeColor": "DiscoveryAnsibleElements",
+  "TemplateIconPath": null,
+  "UseLocalZone": false,
+  "IsGlobal": false
+}
