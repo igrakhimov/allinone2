@@ -1,0 +1,23 @@
+{
+  "TemplateDescription": {
+    "TemplateId": "1d8d225c-902c-45e1-a822-29254de3d7ba",
+    "TemplateName": "p1",
+    "Description": "1",
+    "TemplateType": 2,
+    "TemplateAuthor": "abitha",
+    "ReleaseDateVersion": "06/06/2021 04:18:24",
+    "TemplateFolderPath": "/tmp/rapid/repo/workspace/e91b0000-9b0e-f2c0-8430-08d924c5ea75/allinone2/p1",
+    "IsDevTestEnvironmentsOnly": true,
+    "UsageCount": 0,
+    "IsPromoted": false,
+    "TemplateVersion": "1",
+    "TemplateOwner": "abitha",
+    "IsFavourite": false,
+    "TemplateModifiedBy": "abitha",
+    "TemplateModifiedDate": "06/06/2021 04:18:24",
+    "TemplateTypeColor": null,
+    "TemplateIconPath": null,
+    "UseLocalZone": false,
+    "IsGlobal": false
+  }
+}
