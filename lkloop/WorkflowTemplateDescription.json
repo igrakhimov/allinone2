@@ -1,0 +1,21 @@
+{
+  "TemplateId": "25655250-20ba-4f8c-ab04-9e9e09a29d51",
+  "TemplateName": "lkloop",
+  "Description": "sdf",
+  "TemplateType": 1,
+  "TemplateAuthor": "abitha",
+  "ReleaseDateVersion": "06/10/2021 14:15:25",
+  "TemplateFolderPath": "/tmp/rapid/repo/workspace/e91b0000-9b0e-f2c0-ee6d-08d924c6c12c/allinone2/lkloop",
+  "IsDevTestEnvironmentsOnly": true,
+  "UsageCount": 0,
+  "IsPromoted": false,
+  "TemplateVersion": "sdfsdf",
+  "TemplateOwner": "abitha",
+  "IsFavourite": false,
+  "TemplateModifiedBy": "abitha",
+  "TemplateModifiedDate": "06/10/2021 14:15:25",
+  "TemplateTypeColor": "DiscoveryAnsibleElements",
+  "TemplateIconPath": null,
+  "UseLocalZone": false,
+  "IsGlobal": false
+}

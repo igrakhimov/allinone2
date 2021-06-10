@@ -1,0 +1,21 @@
+- name: Basic set stats testing
+  hosts: localhost
+  connection: local
+  gather_facts: false
+
+  vars:
+    my_input: "{{ element1.var.my_var }}" #settable
+    my_string_input: "Hello here we are {{ element1.var.my_var }}" #settable
+
+  tasks:    
+    - debug:
+        var: my_input
+
+    - debug:
+        msg: "my_input is {{ my_input | type_debug }}"
+  
+    - debug:
+        var: my_string_input
+
+    - debug:
+        msg: "my_string_input is {{ my_string_input | type_debug }}"
