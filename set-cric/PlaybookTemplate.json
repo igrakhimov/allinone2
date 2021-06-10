@@ -1,0 +1,23 @@
+{
+  "TemplateDescription": {
+    "TemplateId": "79d86094-7391-405b-aea1-9946163696c0",
+    "TemplateName": "set cric",
+    "Description": "asdasdasd",
+    "TemplateType": 2,
+    "TemplateAuthor": "abitha",
+    "ReleaseDateVersion": "06/10/2021 14:06:07",
+    "TemplateFolderPath": "/tmp/rapid/repo/workspace/e91b0000-9b0e-f2c0-ee6d-08d924c6c12c/allinone2/set-cric",
+    "IsDevTestEnvironmentsOnly": true,
+    "UsageCount": 0,
+    "IsPromoted": false,
+    "TemplateVersion": "asdasdasdsadas",
+    "TemplateOwner": "abitha",
+    "IsFavourite": false,
+    "TemplateModifiedBy": "abitha",
+    "TemplateModifiedDate": "06/10/2021 14:06:07",
+    "TemplateTypeColor": null,
+    "TemplateIconPath": "/images/custom-icons/fire.svg",
+    "UseLocalZone": false,
+    "IsGlobal": false
+  }
+}
