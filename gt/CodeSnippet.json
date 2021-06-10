@@ -1,0 +1,11 @@
+{
+  "SnippetId": "aff5a795-4537-46fe-b437-5b8aeab6399a",
+  "SnippetName": "gt",
+  "SnippetAuthor": "abitha",
+  "ReleaseDateVersion": "06/10/2021 14:14:44",
+  "SnippetModifiedBy": "abitha",
+  "SnippetModifiedDate": "06/10/2021 14:14:44",
+  "Description": "dasfsf",
+  "Snippet": "- name: Basic set stats testing \n  hosts: localhost\n  connection: local\n  gather_facts: false",
+  "IsGlobal": false
+}
