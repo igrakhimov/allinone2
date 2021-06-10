@@ -1,0 +1,23 @@
+{
+  "TemplateDescription": {
+    "TemplateId": "ab766bca-d222-4d91-a14e-59adb976dea3",
+    "TemplateName": "set1",
+    "Description": "sdf",
+    "TemplateType": 2,
+    "TemplateAuthor": "abitha",
+    "ReleaseDateVersion": "06/10/2021 14:05:06",
+    "TemplateFolderPath": "/tmp/rapid/repo/workspace/e91b0000-9b0e-f2c0-ee6d-08d924c6c12c/allinone2/set1",
+    "IsDevTestEnvironmentsOnly": true,
+    "UsageCount": 0,
+    "IsPromoted": false,
+    "TemplateVersion": "dsf",
+    "TemplateOwner": "abitha",
+    "IsFavourite": false,
+    "TemplateModifiedBy": "abitha",
+    "TemplateModifiedDate": "06/10/2021 14:05:06",
+    "TemplateTypeColor": null,
+    "TemplateIconPath": null,
+    "UseLocalZone": true,
+    "IsGlobal": false
+  }
+}
