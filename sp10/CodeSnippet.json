@@ -1,0 +1,11 @@
+{
+  "SnippetId": "3d6fcdf3-7257-4a38-a039-c5d88644228c",
+  "SnippetName": "sp10",
+  "SnippetAuthor": "abitha",
+  "ReleaseDateVersion": "06/10/2021 14:07:51",
+  "SnippetModifiedBy": "abitha",
+  "SnippetModifiedDate": "06/10/2021 14:07:51",
+  "Description": "dfdsfdsfsdf",
+  "Snippet": "- name: Basic set stats testing \n  hosts: localhost\n  connection: local\n  gather_facts: false\n\n  vars:\n    my_input: \u0022{{ element1.var.my_var }}\u0022 #settable\n    my_string_input: \u0022Hello here we are {{ element1.var.my_var }}\u0022 #settable\n\n  tasks:    \n    - debug:\n        var: my_input\n\n    - debug:\n        msg: \u0022my_input is {{ my_input | type_debug }}\u0022\n  \n    - debug:\n        var: my_string_input\n\n    - debug:\n        msg: \u0022my_string_input is {{ my_string_input | type_debug }}\u0022",
+  "IsGlobal": false
+}
