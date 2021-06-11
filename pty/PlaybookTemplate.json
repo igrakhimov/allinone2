@@ -1,0 +1,23 @@
+{
+  "TemplateDescription": {
+    "TemplateId": "b7428c63-a90e-4915-87c2-58ca493f7585",
+    "TemplateName": "pty",
+    "Description": "sdf",
+    "TemplateType": 2,
+    "TemplateAuthor": "abitha",
+    "ReleaseDateVersion": "06/11/2021 01:54:06",
+    "TemplateFolderPath": "/tmp/rapid/repo/workspace/e91b0000-9b0e-f2c0-8430-08d924c5ea75/allinone2/pty",
+    "IsDevTestEnvironmentsOnly": true,
+    "UsageCount": 0,
+    "IsPromoted": false,
+    "TemplateVersion": "xcv",
+    "TemplateOwner": "abitha",
+    "IsFavourite": false,
+    "TemplateModifiedBy": "abitha",
+    "TemplateModifiedDate": "06/11/2021 01:54:06",
+    "TemplateTypeColor": null,
+    "TemplateIconPath": null,
+    "UseLocalZone": true,
+    "IsGlobal": false
+  }
+}
