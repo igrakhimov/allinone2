@@ -1,0 +1,23 @@
+{
+  "TemplateDescription": {
+    "TemplateId": "a9b2907a-6c9d-4f02-aba5-82d51bf5b20d",
+    "TemplateName": "rrt",
+    "Description": "sdf",
+    "TemplateType": 2,
+    "TemplateAuthor": "abitha",
+    "ReleaseDateVersion": "06/11/2021 01:52:27",
+    "TemplateFolderPath": "/tmp/rapid/repo/workspace/e91b0000-9b0e-f2c0-8430-08d924c5ea75/allinone2/rrt",
+    "IsDevTestEnvironmentsOnly": true,
+    "UsageCount": 0,
+    "IsPromoted": false,
+    "TemplateVersion": "sfd",
+    "TemplateOwner": "abitha",
+    "IsFavourite": false,
+    "TemplateModifiedBy": "abitha",
+    "TemplateModifiedDate": "06/11/2021 01:52:27",
+    "TemplateTypeColor": null,
+    "TemplateIconPath": "/images/custom-icons/change-02.svg",
+    "UseLocalZone": true,
+    "IsGlobal": false
+  }
+}
