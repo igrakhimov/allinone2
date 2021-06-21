@@ -1,0 +1,21 @@
+{
+  "TemplateId": "1ec6baa2-7de3-4aa6-b7cd-e751d31c9881",
+  "TemplateName": "testname",
+  "Description": "hghg",
+  "TemplateType": 1,
+  "TemplateAuthor": "igor",
+  "ReleaseDateVersion": "06/21/2021 07:18:45",
+  "TemplateFolderPath": "/tmp/rapid/repo/workspace/b71e0000-9eb5-deaf-7c5a-08d8fe2d6ce8/allinone2/testname",
+  "IsDevTestEnvironmentsOnly": true,
+  "UsageCount": 0,
+  "IsPromoted": false,
+  "TemplateVersion": "V1",
+  "TemplateOwner": "igor",
+  "IsFavourite": false,
+  "TemplateModifiedBy": "igor",
+  "TemplateModifiedDate": "06/21/2021 07:18:45",
+  "TemplateTypeColor": "AnsibleElements",
+  "TemplateIconPath": null,
+  "UseLocalZone": false,
+  "IsGlobal": false
+}
